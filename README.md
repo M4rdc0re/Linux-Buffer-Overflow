@@ -1,6 +1,6 @@
 # Linux-Buffer-Overflow
 
-Tis repository is a collection of various exploits and vulnerabilities that have been created completing laboratories on platforms to learn cybersecurity.
+This repository is a collection of various exploits and vulnerabilities that have been created completing laboratories on platforms to learn cybersecurity.
 
 Please note that these exploits are provided for educational and research purposes only.
 
